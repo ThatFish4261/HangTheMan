@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* Created by: Robert Linsalato
+ * Game-135
+ * 30 January 2023
+ */
+
+using System;
 using System.Collections.Generic;
 using static System.Random;
 using System.Text;
