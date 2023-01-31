@@ -1,0 +1,15 @@
+C:\Users\linsa\source\repos\game_135\hangman_thing\hangman_thing\bin\Debug\net6.0\hangman_thing.exe
+C:\Users\linsa\source\repos\game_135\hangman_thing\hangman_thing\bin\Debug\net6.0\hangman_thing.deps.json
+C:\Users\linsa\source\repos\game_135\hangman_thing\hangman_thing\bin\Debug\net6.0\hangman_thing.runtimeconfig.json
+C:\Users\linsa\source\repos\game_135\hangman_thing\hangman_thing\bin\Debug\net6.0\hangman_thing.dll
+C:\Users\linsa\source\repos\game_135\hangman_thing\hangman_thing\bin\Debug\net6.0\hangman_thing.pdb
+C:\Users\linsa\source\repos\game_135\hangman_thing\hangman_thing\obj\Debug\net6.0\hangman_thing.csproj.AssemblyReference.cache
+C:\Users\linsa\source\repos\game_135\hangman_thing\hangman_thing\obj\Debug\net6.0\hangman_thing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linsa\source\repos\game_135\hangman_thing\hangman_thing\obj\Debug\net6.0\hangman_thing.AssemblyInfoInputs.cache
+C:\Users\linsa\source\repos\game_135\hangman_thing\hangman_thing\obj\Debug\net6.0\hangman_thing.AssemblyInfo.cs
+C:\Users\linsa\source\repos\game_135\hangman_thing\hangman_thing\obj\Debug\net6.0\hangman_thing.csproj.CoreCompileInputs.cache
+C:\Users\linsa\source\repos\game_135\hangman_thing\hangman_thing\obj\Debug\net6.0\hangman_thing.dll
+C:\Users\linsa\source\repos\game_135\hangman_thing\hangman_thing\obj\Debug\net6.0\refint\hangman_thing.dll
+C:\Users\linsa\source\repos\game_135\hangman_thing\hangman_thing\obj\Debug\net6.0\hangman_thing.pdb
+C:\Users\linsa\source\repos\game_135\hangman_thing\hangman_thing\obj\Debug\net6.0\hangman_thing.genruntimeconfig.cache
+C:\Users\linsa\source\repos\game_135\hangman_thing\hangman_thing\obj\Debug\net6.0\ref\hangman_thing.dll
